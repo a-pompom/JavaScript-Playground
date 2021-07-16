@@ -22,3 +22,6 @@ sketch
 
 .idea
 *.map
+
+# Sphinx
+**/document/build/
